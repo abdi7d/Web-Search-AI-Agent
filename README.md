@@ -24,19 +24,23 @@
    ````
 
 2. Install dependencies:
-```bash
-   pip install -r requirements.txt
-```
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 3. Set environment variables in a `.env` file:
-```env
-   TAVILY_API_KEY=your_api_key_here
-```
+
+    ```env
+    GOOGLE_API_KEY=your_google_api_key_here
+    GROQ_API_KEY= your_groq_api_key_here (optional)
+    TAVILY_API_KEY=your_api_key_here
+    ```
 
 4. Run the app:
-```bash
-   python app.py
-```
+    ```bash
+    python app.py
+    ```
 
 ### Screenshots
 
