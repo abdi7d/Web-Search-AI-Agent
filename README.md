@@ -12,7 +12,7 @@
 #### Features
 - Search the web using Tavily API.
 - Summarize and answer user queries using Gemini LLM.
-- Simple and interactive **Gradio** interface for easy use.
+- Simple and interactive **Streamlit** interface for easy use.
 - Handles incomplete or missing data gracefully by using internal LLM knowledge.
 
 #### How to Run
