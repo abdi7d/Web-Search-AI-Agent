@@ -40,7 +40,7 @@
 
 ### Screenshots
 
-*(Add screenshots of your Gradio interface here)*
+*(screenshots of Gradio interface )*
 
 ### Tech Stack
 
