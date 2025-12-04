@@ -44,12 +44,12 @@
 
 ### Screenshots
 
-*(screenshots of Gradio interface )*
+*(screenshots of Streamlit interface )*
 
 ### Tech Stack
 
 * Python
-* Gradio (for UI)
+* Streamlit (for UI)
 * LangChain Tavily
 * Google Gemini LLM
 
